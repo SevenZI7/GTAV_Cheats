@@ -1,6 +1,6 @@
 # GTAV_Cheats
 ## Cheats for GTAV
-Donwload the realase
+Donwload the Releases
 
 This repository contains a simple and effective cheat for Grand Theft Auto V (GTA V), designed for players looking to explore the game in unconventional ways. The cheat allows you to modify in-game elements in real-time, such as:
 
