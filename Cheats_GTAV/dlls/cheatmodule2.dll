@@ -1,0 +1,9 @@
+using MeuCheatDLL;
+
+class Program
+{
+    static void Main()
+    {
+        Funcoes.AtivarCheat();
+    }
+}

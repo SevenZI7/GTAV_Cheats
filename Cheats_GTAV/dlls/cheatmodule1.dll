@@ -1,0 +1,12 @@
+using System;
+
+namespace MeuCheatDLL
+{
+    public class Funcoes
+    {
+        public static void AtivarCheat()
+        {
+            Console.WriteLine("Cheat Ativado!");
+        }
+    }
+}
